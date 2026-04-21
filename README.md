@@ -6,7 +6,6 @@
 **Implementation of an ML-based DNA Sequencing Accelerator using FPGA**
 🤝 I’m looking to collaborate on  
 FPGA/ASIC design, ML hardware acceleration, and high-performance computing systems  
-🛠 I’m looking for help with  
 Advanced FPGA optimization, HLS design, and scalable hardware architectures  
 🌱 I’m currently learning  
 Hardware-software co-design and high-level synthesis (HLS)  
